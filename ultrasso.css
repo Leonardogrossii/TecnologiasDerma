@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    padding: 0px;
+    text-align: center;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    font-family: cursive 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Style the header */
+.header {
+    background-color: #DEB887;
+    padding: 1px;
+    text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    border-top: 2px solid black;
+    overflow: hidden;
+    background-color: #DEB887;
+}
+
+/* Style the topnav links */
+.topnav a {
+    justify-content: space-around;
+    float: left;
+    display: fle;
+    color: #000000;
+    text-align: center;
+    padding: 14px 80px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #ac7e46;
+    color: black;
+}
+
+.card-text {
+    margin: 0px 450px;
+    padding: 0;
+    text-align: center;
+    background-color: #CBAF92;
+    border-radius: 23px;
+}
+
+.perfil {
+    position: absolute;
+    top: 5%;
+    left: 95%;
+}
+
+.sino {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+}
+
+.imagemultra {
+    width: 400px;
+    height: 500px;
+}
+
+.titulo1 {
+    font-size: 55px;
+    position: absolute;
+    top: 70%;
+    left: 20%;
+
+
+}
+
+.titulo2 {
+    font-size: 60px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+}
+
+.text {
+    background-color: #CBAF92;
+ position: absolute;
+ top: 115%;
+ right: 30%;
+    text-align: justify;
+    width: 55%;
+    height: 30%;
+    border-radius: 5px ;
+    font-size: 15px;
+}
+
+.fundo {
+    background-color: #0b0907;
+}
